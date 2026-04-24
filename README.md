@@ -2,7 +2,7 @@
 
 This project involves the development of a simulated enterprise security environment to analyse and detect cyberattacks. A vulnerable web application, OWASP Juice Shop, is used to emulate real-world attacks, while Wazuh is implemented to collect logs, detect threats, and automate responses. The project covers both offensive attack simulation and defensive monitoring.
 
----
+
 
 ## Project Overview
 
@@ -10,7 +10,7 @@ As cyber threats become increasingly sophisticated, organisations must adopt pro
 
 The system collects logs from multiple sources, correlates events, and applies custom detection rules to identify malicious behaviour. It also demonstrates automated incident response to mitigate threats in real time.
 
----
+
 
 ## Business Requirements:
 
@@ -18,7 +18,7 @@ The system collects logs from multiple sources, correlates events, and applies c
 - **Log Monitoring:** Collect and analyse system and application logs for security events  
 - **Incident Response:** Automatically respond to detected threats using active response mechanisms  
 
----
+
 
 ## Technologies Used:
 
@@ -29,7 +29,7 @@ The system collects logs from multiple sources, correlates events, and applies c
 - **Ubuntu:** Hosts the Wazuh SIEM server  
 - **Suricata:** IDS for network-level threat detection  
 
----
+
 
 ## Deliverables:
 
